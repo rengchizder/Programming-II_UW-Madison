@@ -1,4 +1,4 @@
-# Particle Fountain Project Specifications
+# Specifications
 ## Objective
 Develop a particle fountain simulation in Java to create and animate particles moving in a fountain-like pattern on the screen.
 
@@ -17,7 +17,7 @@ public class Particle {
 ```
 
 ## Fountain Class
-Implement a Fountain class to manage the collection of particles and handle their creation, movement, and rendering.
+Implement a `Fountain` class to manage the collection of particles and handle their creation, movement, and rendering.
 ```{java}
 public class Fountain {
     private List<Particle> particles;
@@ -110,3 +110,5 @@ public class FountainTest {
     // Additional tests for other methods
 }
 ```
+
+For more information, refer to the [original assignment page](https://web.archive.org/web/20190204205638/http://cs300-www.cs.wisc.edu/wp/2019/01/17/p02-particle-fountain/).

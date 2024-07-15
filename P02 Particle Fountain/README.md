@@ -1,4 +1,4 @@
-# Particle Fountain - CS300: Programming II - UW Madison
+# P02 Particle Fountain
 ## Overview
 This project is a simulation of a particle fountain developed for the CS300: Programming II course at UW Madison. The simulation involves creating and animating particles that move in a fountain-like pattern on the screen.
 
