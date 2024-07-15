@@ -4,7 +4,6 @@ Develop a shopping cart application in Java to perform basic shopping operations
 
 ## Market Items
 A perfect-size two-dimensional array stores the available items in the market. Each item is identified by an index, description, and unit price.
-
 ```{java}
 public static final String[][] MARKET_ITEMS = new String[][] {
     {"Apple", "$1.59"}, {"Avocado", "$0.59"}, {"Banana", "$0.49"}, {"Beef", "$3.79"},
