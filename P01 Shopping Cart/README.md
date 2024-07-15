@@ -15,4 +15,4 @@ This project is a shopping cart application developed for the CS300: Programming
 - Basic input/output operations
 - Test-driven development for reliable and maintainable code
 
-For detailed assignment instructions, refer to the [Project Specifications](./specifications.md).
+For detailed assignment instructions, refer to the [Project Specifications](./Specifications.md).
