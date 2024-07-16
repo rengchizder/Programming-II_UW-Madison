@@ -1,17 +1,13 @@
 # P02 Particle Fountain
-## Overview
-This project is a simulation of a particle fountain developed for the CS300: Programming II course at UW Madison. The simulation involves creating and animating particles that move in a fountain-like pattern on the screen.
 
-## Key Features
-- **Particle Animation:** Simulate particles moving in a realistic fountain pattern.
-- **GUI Interaction:** User can interact with the simulation through a graphical user interface.
-- **Customizable Settings:** Various settings such as particle speed and fountain size can be customized.
+## Project Overview
+The Particle Fountain project involves creating a graphical simulation of a particle fountain. This project builds on the OOP principles by introducing inheritance and polymorphism to design particles with different behaviors. The project also incorporates graphical user interface (GUI) development and animation, providing a visual and interactive element to the application.
 
 ## Skills Demonstrated
-- Object-oriented programming in Java
-- Working with graphical user interfaces (GUIs)
-- Handling animations and real-time updates
-- Implementing procedural programming concepts
-- Test-driven development for reliable and maintainable code
+- **Object-Oriented Programming (OOP)**: Utilized inheritance and polymorphism to design various particle types.
+- **GUI Development**: Used Java Swing for graphical representation.
+- **Animation**: Managed particle movement and behavior over time.
+- **Event Handling**: Implemented event-driven programming for user interactions.
 
-For detailed assignment instructions, refer to the [Project Specifications](./Specifications.md).
+## Files Included
+- `Foundation.java`

@@ -1,18 +1,14 @@
 # P01 Shopping Cart
-## Overview
-This project is a shopping cart application developed for the CS300: Programming II course at UW Madison. The application performs essential shopping operations like adding items, removing items, displaying the cart, and calculating the total cost at checkout.
 
-## Key Features
-- **Print Market Catalog:** Display all available items with their identifiers, descriptions, and prices.
-- **Add/Remove Items:** Manage items in the cart using their unique identifiers.
-- **Display Cart:** Show the current contents of the shopping cart.
-- **Checkout:** Calculate and display the subtotal, tax, and total cost of the items in the cart.
+## Project Overview
+The Shopping Cart project involves designing and implementing a basic shopping cart application. The primary goal is to practice procedural programming principles by handling the addition, removal, and listing of items in a cart. This foundational project sets the stage for more complex applications by focusing on basic function design and user interaction.
 
 ## Skills Demonstrated
-- Object-oriented programming in Java
-- Working with arrays and static methods
-- Implementing procedural programming concepts
-- Basic input/output operations
-- Test-driven development for reliable and maintainable code
+- **Procedural Programming**: Utilized functions to manage a shopping cart and its operations.
+- **Method Design**: Designed functions for adding, removing, and listing items.
+- **Arrays**: Managed a collection of cart items using arrays.
+- **User Interaction**: Implemented simple user interfaces to interact with the shopping cart.
 
-For detailed assignment instructions, refer to the [Project Specifications](./Specifications.md).
+## Files Included
+- `ShoppingCart.java`
+- `ShoppingCartTests.java`
