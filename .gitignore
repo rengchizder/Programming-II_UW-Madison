@@ -16,3 +16,6 @@ artifacts/
 # Maven
 log/
 target/ 
+
+# Others
+P06_To_Be_Deleted
